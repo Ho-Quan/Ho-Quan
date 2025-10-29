@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> ☔️ Quan's Github ☔️ </h1>
-  <img width="575px" height="auto" src="https://github.com/user-attachments/assets/1e8604b0-5250-4d3d-865f-47619a966620" alt="OPPO Flow Animation"/>
+  <h1> ✱ Quan's Github ✱ </h1>
+  <img width="950px" height="auto" src="https://github.com/user-attachments/assets/441c8ec4-cbf9-404b-ac49-1bc0f7ee2193" alt="OPPO Flow Animation"/>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/quanmho/">
